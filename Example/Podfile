@@ -1,0 +1,6 @@
+use_frameworks!
+target 'J2CNewVC_Tests' do
+  pod 'J2CNewVC', :path => '../'
+  
+  
+end
