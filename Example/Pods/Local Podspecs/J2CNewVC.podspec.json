@@ -1,0 +1,22 @@
+{
+  "name": "J2CNewVC",
+  "version": "0.1.0",
+  "summary": "A short description of J2CNewVC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhoujian/J2CNewVC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhoujian": "zhou.j-neu@neusoft.com"
+  },
+  "source": {
+    "git": "https://github.com/zhoujian/J2CNewVC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "J2CNewVC/Classes/**/*"
+}
