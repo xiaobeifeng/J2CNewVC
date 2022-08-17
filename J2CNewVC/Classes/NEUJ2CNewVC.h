@@ -12,6 +12,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface NEUJ2CNewVC : NSObject <WKScriptMessageHandler>
 
+@property(nonatomic, strong) WKWebView *webView;
+
+@property(nonatomic, strong) UIViewController *webViewController;
+
 + (instancetype)shareInstance;
 
 @end
